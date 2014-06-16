@@ -1,0 +1,25 @@
+{
+    "name": "nodebb-plugin-spotify-update",
+    "version": "0.0.4",
+    "description": "NodeBB plugin for embedding songs and albums on Spotify",
+    "keywords": [
+        "nodebb",
+        "spotify"
+    ],
+    "homepage": "http://github.com/alfreddobradi/nodebb-plugin-spotify-update",
+    "bugs": {
+        "url": "http://github.com/alfreddobradi/nodebb-plugin-spotify-update/issues",
+        "email": "alfreddobradi@gmail.com"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Alfred Dobradi",
+        "email": "alfreddobradi@gmail.com",
+        "url": "http://blog.brvy.me"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/alfreddobradi/nodebb-plugin-spotify-update.git"
+    }
+}
